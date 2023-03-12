@@ -1,0 +1,191 @@
+,Initiator,Action,Target,Outcome,ServiceProviderName,Claims,UserName,Profile,Filter,Roles
+0,wso2.system.user,Get-User-Claim-Values,pranaya,"Success
+",apim_devportal,{},admin,default,,
+1,wso2.system.user,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+2,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+3,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},admin,default,,
+4,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+5,wso2.system.user,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+6,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+7,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+8,wso2.system.user,Get-Roles-of-User,admin,"Success
+",,,,,*,"['Internal/subscriber', 'Internal/creator', 'Application/apim_devportal', 'Internal/publisher', 'Internal/everyone', 'Application/apim_admin_portal', 'Internal/devops', 'admin', 'Internal/analytics', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_PRODUCTION', 'Application/apim_publisher', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_SANDBOX']"
+9,wso2.system.user,Get-User-Claim-Values,pranaya,"Success
+",apim_devportal,{},admin,default,,
+10,wso2.system.user,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+11,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+12,wso2.system.user,Get-User-Claim-Values,pranaya,"Success
+",apim_devportal,{},admin,default,,
+13,wso2.system.user,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+14,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+15,pranaya@carbon.super,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+16,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},,default,,
+17,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+18,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+19,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+20,wso2.system.user,Get-Roles-of-User,admin,"Success
+",,,,,*,"['Internal/subscriber', 'Internal/creator', 'Application/apim_devportal', 'Internal/publisher', 'Internal/everyone', 'Application/apim_admin_portal', 'Internal/devops', 'admin', 'Internal/analytics', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_PRODUCTION', 'Application/apim_publisher', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_SANDBOX']"
+21,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+22,pranaya@carbon.super,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+23,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+24,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+25,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+26,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+27,wso2.system.user,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+28,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+29,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+30,wso2.system.user,Get-Roles-of-User,admin,"Success
+",,,,,*,"['Internal/subscriber', 'Internal/creator', 'Application/apim_devportal', 'Internal/publisher', 'Internal/everyone', 'Application/apim_admin_portal', 'Internal/devops', 'admin', 'Internal/analytics', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_PRODUCTION', 'Application/apim_publisher', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_SANDBOX']"
+31,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+32,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+33,wso2.system.user,Get-Roles-of-User,admin,"Success
+",,,,,*,"['Internal/subscriber', 'Internal/creator', 'Application/apim_devportal', 'Internal/publisher', 'Internal/everyone', 'Application/apim_admin_portal', 'Internal/devops', 'admin', 'Internal/analytics', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_PRODUCTION', 'Application/apim_publisher', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_SANDBOX']"
+34,pranaya@carbon.super,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+35,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+36,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+37,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+38,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+39,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},admin,default,,
+40,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+41,pranaya@carbon.super,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+42,pranaya@carbon.super,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+43,wso2.system.user,Get-Roles-of-User,suparijita,"Success
+",apim_devportal,,,,*,"['Internal/everyone', 'Internal/selfsignup']"
+44,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+45,wso2.system.user,Get-Roles-of-User,admin,"Success
+",,,,,*,"['Internal/subscriber', 'Internal/creator', 'Application/apim_devportal', 'Internal/publisher', 'Internal/everyone', 'Application/apim_admin_portal', 'Internal/devops', 'admin', 'Internal/analytics', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_PRODUCTION', 'Application/apim_publisher', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_SANDBOX']"
+46,wso2.system.user,Set-User-Claim-Values,suparijita,"Success
+",apim_devportal,{'profileConfiguration': 'default'},,,,
+47,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_publisher,{},admin,default,,
+48,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+49,admin@carbon.super,Update-Roles-of-User,suparijita,"Success
+",apim_devportal,,admin,,,
+50,wso2.system.user,Get-User-Claim-Values,suparijita,"Success
+",apim_devportal,{},admin,default,,
+51,wso2.system.user,Set-User-Claim-Values,suparijita,"Success
+",apim_devportal,{'profileConfiguration': 'default'},,,,
+52,wso2.system.user,Get-User-Claim-Values,suparijita,"Success
+",apim_devportal,{},admin,default,,
+53,wso2.system.user,Get-Roles-of-User,suparijita,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+54,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+55,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+56,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+57,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+58,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+59,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+60,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+61,pranaya@carbon.super,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+62,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+63,pranaya@carbon.super,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+64,pranaya@carbon.super,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+65,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+66,wso2.system.user,Get-User-Claim-Values,pranaya,"Success
+",apim_devportal,{},admin,default,,
+67,wso2.system.user,Get-Roles-of-User,pranaya,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+68,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+69,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+70,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+71,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+72,wso2.system.user,Get-Roles-of-User,admin,"Success
+",,,,,*,"['Internal/subscriber', 'Internal/creator', 'Application/apim_devportal', 'Internal/publisher', 'Internal/everyone', 'Application/apim_admin_portal', 'Internal/devops', 'admin', 'Internal/analytics', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_PRODUCTION', 'Application/apim_publisher', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_SANDBOX']"
+73,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+74,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+75,wso2.system.user,Get-Roles-of-User,Pranayapritam,"Success
+",apim_devportal,,,,*,"['Internal/everyone', 'Internal/selfsignup']"
+76,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+77,wso2.system.user,Get-Roles-of-User,admin,"Success
+",,,,,*,"['Internal/subscriber', 'Internal/creator', 'Application/apim_devportal', 'Internal/publisher', 'Internal/everyone', 'Application/apim_admin_portal', 'Internal/devops', 'admin', 'Internal/analytics', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_PRODUCTION', 'Application/apim_publisher', 'Application/admin_83868ea8-7c7a-459c-828c-f29df1f9dcb3_SANDBOX']"
+78,wso2.system.user,Set-User-Claim-Values,Pranayapritam,"Success
+",apim_devportal,{'profileConfiguration': 'default'},,,,
+79,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+80,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+81,admin@carbon.super,Update-Roles-of-User,Pranayapritam,"Success
+",apim_devportal,,admin,,,
+82,wso2.system.user,Set-User-Claim-Values,Pranayapritam,"Success
+",apim_devportal,{'profileConfiguration': 'default'},admin,,,
+83,wso2.system.user,Get-User-Claim-Values,Pranayapritam,"Success
+",apim_devportal,{},admin,default,,
+84,wso2.system.user,Get-Roles-of-User,Pranayapritam,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"
+85,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+86,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+87,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+88,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+89,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+90,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",,{},,default,,
+91,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+92,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+93,wso2.system.user,Get-User-Claim-Values,admin,"Success
+",apim_devportal,{},admin,default,,
+94,Pranayapritam@carbon.super,Get-Roles-of-User,Pranayapritam,"Success
+",apim_devportal,,admin,,*,"['Internal/subscriber', 'Internal/everyone', 'Internal/selfsignup']"

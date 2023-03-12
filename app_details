@@ -1,0 +1,14 @@
+Web Server Log Analysis
+    Project Details
+        Abstract
+        Aim
+    Data Analysis
+        No. of Unique Values of Each Column
+        Feature Explanation
+    Data Processing
+        Data Extraction
+        Given Data Before Anomaly Detection
+        Anomaly Detection using PyCaret
+        Data After Anomaly Detection
+    Model Sandbox
+    Model Statistics

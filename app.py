@@ -81,9 +81,9 @@ if st.button('Find Kurtosis and Skew'):
     st.write('This distribution has skew : ', df[option4].skew())
     st.write('This distribution has kurtosis : ', df[option4].kurt())
     
-st.header('Power BI Report')
+st.header('Power BI Dashboard')
 
-if st.button('Display Power BI Report'):
+if st.button('Display Power BI Dashboard'):
     st.markdown('<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGNjNDMwNTQtM2IxZC00NzZhLTgzMjItMTc3MDQ2OGMzZWUwIiwidCI6IjRkNGI0ZmRhLWRiNjItNDg5Ni1hMmJkLWRhNzkxMGRjZWU3NSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>',unsafe_allow_html=True)
 
 

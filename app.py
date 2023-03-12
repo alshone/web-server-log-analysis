@@ -169,12 +169,12 @@ else:
 
 st.header('Model Statistics')
 
-image4 = Image.open('CatBoost.png')
-image5 = Image.open('AdaBoost.png')
-image6 = Image.open('Gradient Boost.png')
-image7 = Image.open('RF.png')
-image8 = Image.open('XGB.png')
-image9 = Image.open('XGBRF.png')
+image4 = Image.open('CatBoost.PNG')
+image5 = Image.open('AdaBoost.PNG')
+image6 = Image.open('Gradient Boost.PNG')
+image7 = Image.open('RF.PNG')
+image8 = Image.open('XGB.PNG')
+image9 = Image.open('XGBRF.PNG')
 
 st.subheader('CatBoost')
 st.image(image4, caption='CatBoost')
